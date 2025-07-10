@@ -1,1 +1,0 @@
-Que no se te olvida ejecutar las tablas los inserts y las vistas para manejar la aplicación :)
