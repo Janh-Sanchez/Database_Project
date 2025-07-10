@@ -1,0 +1,10 @@
+﻿DNIEmpleado;primerNombre;segundoNombre;primerApellido;segundoApellido;calle;carrera;numero;cargo;idArea
+2001;Ana;Lucia;Martinez;Lopez;Calle 12;Carrera 3;23-54;Limpieza zonas comunes;2
+2002;Javier;;Gonzalez;Torres;Calle 20;Carrera 10;29-56;Limpieza habitaciones;2
+2003;Jan;Henrik;Sanchez;Jerez;Calle 15;Carrera 7;15-50;Recepcionista;1
+2004;Carlos;;Salazar;;Calle 8;Carrera 5;67-2;Chef;3
+2005;Mariana;;Fernandez;Ortega;Calle 30;Carrera 12;23-45;Chef;3
+2006;Sergio;;Mendi;;Calle 25;Carrera 15;25-60;Mesero;3
+2007;Daniela;;Pineda;;Calle 18;Carrera 4;18-45;Salvavidas y primeros auxilios;4
+2008;Luis;Fernando;Ortiz;Rivera;Calle 5;Carrera 2;76-1;Vigilante camaras ;5
+2009;Valeria;;Jimenez;Mendoza;Calle 22;Carrera 9;22-99;Guardia de seguridad;5
